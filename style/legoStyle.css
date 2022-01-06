@@ -1,0 +1,20 @@
+canvas{
+    width:500px;
+    height:500px;
+    background-color:#b3bab1;
+    /*margin-left:600px;*/
+}
+
+input[type="button"]{
+    background-color:#d9c07e;
+    border:dashed 4px #34b317;
+    color:#9c132e;
+    margin:2px;
+    padding:15.9px;
+    cursor:pointer;
+    border-radius:25%;
+}
+
+input[type="number"]{
+    width:90px;
+}

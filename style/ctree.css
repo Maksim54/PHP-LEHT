@@ -1,0 +1,28 @@
+#kusk{
+    background-color:#FFFAFA;
+    border: 5px solid;
+    border-color: lightblue;
+}
+
+input[type=button]{
+    background-color: #2d1f34;
+    border: none;
+    color: #ad05f1;
+    text-shadow:
+            0 0 7px #fff,
+            0 0 10px #fff,
+            0 0 21px #fff,
+            0 0 42px #0fa,
+            0 0 82px #0fa,
+            0 0 92px #0fa,
+            0 0 102px #0fa,
+            0 0 151px #0fa;
+    padding: 20px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 20px;
+    font-family: 'Gwendolyn', cursive;
+}
